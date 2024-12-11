@@ -2,6 +2,7 @@
 <img src="https://audio-atlas.github.io/audio-atlas-frontend/imgs/AALogo.png" height=100 />
   <h1>Audio Atlas</h1>
   <h2>A fuzzy search tool for sound effects</h2>
+  <a href="https://audio-atlas.github.io/audio-atlas-frontend/">Audio Atlas Website</a>
 </div>
 
 ## About
