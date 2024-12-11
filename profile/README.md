@@ -1,7 +1,8 @@
-<img src="https://avatars.githubusercontent.com/u/186979405?s=200&v=4" width=100 height=100/>
-
-# Audio Atlas
-## A fuzzy search tool for sound effects
+<div align="center">
+<img src="https://audio-atlas.github.io/audio-atlas-frontend/imgs/AALogo.png" height=100 />
+  <h1>Audio Atlas</h1>
+  <h2>A fuzzy search tool for sound effects</h2>
+</div>
 
 ## About
 Audio Atlas is a fuzzy search tool for sound effects. It takes in text query and returns a list of sound effects that match the query. The core of Audio Atlas is the CLAP (Contrastive Language-Audio Pretraining) model made by LAION-AI.
